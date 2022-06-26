@@ -29,9 +29,15 @@
 
 ### Reactor 单线程模型
 
+![单线程模型](./docs/reactor_single_thread_model.jpg)
+
 ### Reactor 多线程模型
 
+![单线程模型](./docs/reactor_multithreading_model.jpg)
+
 ### Reactor 主从多线程模型
+
+![单线程模型](./docs/master_slave_reactor_multithreading_model.jpg)
 
 ## 安装依赖库
 
